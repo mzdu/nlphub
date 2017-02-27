@@ -1,0 +1,68 @@
+This is BibTeX, Version 0.99d (TeX Live 2015)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: main.aux
+The style file: amsplain.bst
+A level-1 auxiliary file: chap0/chap0-intro.aux
+A level-1 auxiliary file: chap1/chap1-bg.aux
+A level-1 auxiliary file: chap2/chap2-grocery.aux
+A level-1 auxiliary file: chap3/chap3-healthcare.aux
+A level-1 auxiliary file: chap4/chap4-personality.aux
+A level-1 auxiliary file: chap5/chap5-conclusion.aux
+A level-1 auxiliary file: biblio.aux
+Database file #1: main.bib
+Warning--entry type for "lewis2013" isn't style-file defined
+--line 552 of file main.bib
+Warning--entry type for "keirseywebsite" isn't style-file defined
+--line 560 of file main.bib
+I was expecting a `,' or a `}'---line 582 of file main.bib
+ :  
+ :  year = {2013},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Warning--missing year in du2013
+Warning--missing pages in feldman2005
+Warning--missing booktitle in huhns1999
+Warning--can't use both author and editor fields in whitworth2013
+Warning--missing chapter and pages in whitworth2013
+You've used 82 entries,
+            2213 wiz_defined-function locations,
+            1027 strings with 20072 characters,
+and the built_in function-call counts, 29820 in all, are:
+= -- 2621
+> -- 1483
+< -- 14
++ -- 579
+- -- 481
+* -- 2504
+:= -- 4695
+add.period$ -- 82
+call.type$ -- 82
+change.case$ -- 463
+chr.to.int$ -- 0
+cite$ -- 87
+duplicate$ -- 1247
+empty$ -- 2499
+format.name$ -- 481
+if$ -- 6406
+int.to.chr$ -- 0
+int.to.str$ -- 82
+missing$ -- 167
+newline$ -- 256
+num.names$ -- 189
+pop$ -- 616
+preamble$ -- 1
+purify$ -- 377
+quote$ -- 0
+skip$ -- 832
+stack$ -- 0
+substring$ -- 1812
+swap$ -- 309
+text.length$ -- 14
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 304
+warning$ -- 5
+while$ -- 277
+width$ -- 84
+write$ -- 771
+(There was 1 error message)

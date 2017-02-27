@@ -1,0 +1,44 @@
+\contentsline {chapter}{Acknowledgments}{ii}
+\contentsline {chapter}{Abstract}{iii}
+\contentsline {chapter}{List of Tables\vspace {\baselineskip }}{vii}
+\contentsline {chapter}{List of Figures\vspace {\baselineskip }}{ix}
+\contentsline {chapter}{\chapternumberline {1}Introduction}{1}
+\contentsline {section}{\numberline {1.1}Purpose of Study}{2}
+\contentsline {section}{\numberline {1.2}Complex Problems and Possible Solutions}{4}
+\contentsline {section}{\numberline {1.3}Research Methodology}{6}
+\contentsline {chapter}{\chapternumberline {2}Background}{9}
+\contentsline {section}{\numberline {2.1}Sociotechnical Systems}{9}
+\contentsline {subsection}{Norms}{12}
+\contentsline {subsection}{Crowdsourcing}{13}
+\contentsline {subsection}{Mixed Human-Agent Societies}{13}
+\contentsline {section}{\numberline {2.2}Resource Allocation Problems}{14}
+\contentsline {section}{\numberline {2.3}Multiagent Systems}{15}
+\contentsline {chapter}{\chapternumberline {3}A Multiagent System Approach to Grocery Shopping}{19}
+\contentsline {section}{\numberline {3.1}Introduction}{19}
+\contentsline {section}{\numberline {3.2}Background}{22}
+\contentsline {section}{\numberline {3.3}Analysis and Simulation}{23}
+\contentsline {section}{\numberline {3.4}Results and Discussion}{25}
+\contentsline {section}{\numberline {3.5}Conclusion}{29}
+\contentsline {chapter}{\chapternumberline {4}Simulating a Sociotechnical System for Healthcare}{31}
+\contentsline {section}{\numberline {4.1}Introduction}{31}
+\contentsline {section}{\numberline {4.2}Related Work}{34}
+\contentsline {section}{\numberline {4.3}Methodology}{35}
+\contentsline {section}{\numberline {4.4}Evaluation}{45}
+\contentsline {subsection}{Simulation Settings}{45}
+\contentsline {subsection}{Results and Evaluation}{48}
+\contentsline {section}{\numberline {4.5}Conclusion}{54}
+\contentsline {chapter}{\chapternumberline {5}Determining the Effect of Personality Types on Human-Agent Interactions}{56}
+\contentsline {section}{\numberline {5.1}Introduction}{56}
+\contentsline {subsection}{Personality Types}{57}
+\contentsline {subsection}{The Cake-Cutting Game}{59}
+\contentsline {section}{\numberline {5.2}Related Work}{60}
+\contentsline {section}{\numberline {5.3}Experiment}{62}
+\contentsline {section}{\numberline {5.4}Results}{63}
+\contentsline {subsection}{Tendency Results}{65}
+\contentsline {subsubsection}{KTS-II Temperaments Tendency Results}{66}
+\contentsline {subsection}{Consistency Results}{72}
+\contentsline {section}{\numberline {5.5}Conclusion}{74}
+\contentsline {chapter}{\chapternumberline {6}Conclusion}{76}
+\contentsline {chapter}{Bibliography}{81}
+\contentsline {appendix}{\chapternumberline {A}Item Prices in Dollars}{90}
+\contentsline {appendix}{\chapternumberline {B}Number of patients going to each physician each day}{92}

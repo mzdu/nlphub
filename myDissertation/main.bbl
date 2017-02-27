@@ -1,0 +1,447 @@
+\providecommand{\bysame}{\leavevmode\hbox to3em{\hrulefill}\thinspace}
+\providecommand{\MR}{\relax\ifhmode\unskip\space\fi MR }
+% \MRhref is called by the amsart/book/proc definition of \MR.
+\providecommand{\MRhref}[2]{%
+  \href{http://www.ams.org/mathscinet-getitem?mr=#1}{#2}
+}
+\providecommand{\href}[2]{#2}
+\begin{thebibliography}{10}
+
+\bibitem{adhau2012}
+Sunil Adhau, M.~L. Mittal, and Abhinav Mittal, \emph{A multi-agent system for
+  distributed multi-project scheduling: An auction-based negotiation approach},
+  Eng. Appl. Artif. Intell. \textbf{25} (2012), no.~8, 1738--1751.
+
+\bibitem{altman2010}
+Eitan Altman, Konstantin Avrachenkov, and Andrey Garnaev, \emph{Fair resource
+  allocation in wireless networks in the presence of a jammer}, Proceedings of
+  the 3rd International Conference on Performance Evaluation Methodologies and
+  Tools (ICST, Brussels, Belgium, Belgium), ValueTools '08, ICST (Institute for
+  Computer Sciences, Social-Informatics and Telecommunications Engineering),
+  2008, pp.~33:1--33:7.
+
+\bibitem{asimov2004robot}
+Isaac Asimov, \emph{{I, Robot}}, Signet, New York, NY, USA, June 1956.
+
+\bibitem{bachrach2008}
+Yoram Bachrach and Jeffrey~S. Rosenschein, \emph{Distributed multiagent
+  resource allocation in diminishing marginal return domains}, Proceedings of
+  the 7th International Joint Conference on Autonomous Agents and Multiagent
+  Systems - Volume 2 (Richland, SC), AAMAS '08, International Foundation for
+  Autonomous Agents and Multiagent Systems, 2008, pp.~1103--1110.
+
+\bibitem{barabasi1999}
+Albert-L{\'a}szl{\'o} Barab{\'a}si and R{\'e}ka Albert, \emph{Emergence of
+  scaling in random networks}, Science \textbf{286} (1999), no.~5439, 509--512.
+
+\bibitem{Bartneck2007}
+Christoph Bartneck, Michel van~der Hoek, Omar Mubin, and Abdullah Al~Mahmud,
+  \emph{"daisy, daisy, give me your answer do!": switching off a robot},
+  Proceedings of the ACM/IEEE international conference on Human-robot
+  interaction (New York, NY, USA), HRI '07, ACM, 2007, pp.~217--222.
+
+\bibitem{baxter2011}
+Gordon Baxter and Ian Sommerville, \emph{Socio-technical systems: From design
+  methods to systems engineering}, Interact. Comput. \textbf{23} (2011), no.~1,
+  4--17.
+
+\bibitem{bicchieri1990}
+Cristina Bicchieri, \emph{{Norms of Cooperation}}, Ethics \textbf{100} (1990),
+  no.~4, 838--861.
+
+\bibitem{boella2009}
+Guido Boella, Gabriella Pigozzi, and Leendert van~der Torre, \emph{Five
+  guidelines for normative multiagent systems}, Proceedings of JURIX 2009 - The
+  22nd International Conference on Legal Knowledge and Information Systems
+  (Rotterdam, The Netherlands), Frontiers in Artificial Intelligence and
+  Applications, IOS Press, December 2009.
+
+\bibitem{bradshaw2003}
+JeffreyM. Bradshaw, Maarten Sierhuis, Alessandro Acquisti, Paul Feltovich,
+  Robert Hoffman, Renia Jeffers, Debbie Prescott, Niranjan Suri, Andrzej Uszok,
+  and Ron Van~Hoof, \emph{Adjustable autonomy and human-agent teamwork in
+  practice: An interim report on space applications}, Agent Autonomy (Henry
+  Hexmoor, Cristiano Castelfranchi, and Rino Falcone, eds.), Multiagent
+  Systems, Artificial Societies, and Simulated Organizations, vol.~7, Springer
+  US, 2003, pp.~243--280 (English).
+
+\bibitem{bradshaw2008}
+J.M. Bradshaw, P.J. Feltovich, M.J. Johnson, L.~Bunch, M.R. Breedy,
+  T.~Eskridge, Hyuckchul Jung, J.~Lott, and A.~Uszok, \emph{Coordination in
+  human-agent-robot teamwork}, Collaborative Technologies and Systems, 2008.
+  CTS 2008. International Symposium on, May 2008, pp.~467--476.
+
+\bibitem{brynjolfsson2010}
+Erik Brynjolfsson, AstridA. Dick, and MichaelD. Smith, \emph{A nearly perfect
+  market?}, QME \textbf{8} (2010), no.~1, 1--33 (English).
+
+\bibitem{buchholz2004}
+Martin Buchholz, Dirk Pfl{\"u}ger, and Josiah Poon, \emph{Application of
+  machine learning techniques to the re-ranking of search results}, KI 2004:
+  Advances in Artificial Intelligence (Susanne Biundo, Thom Fr{\"u}hwirth, and
+  G{\"u}nther Palm, eds.), Lecture Notes in Computer Science, vol. 3238,
+  Springer Berlin Heidelberg, 2004, pp.~67--81.
+
+\bibitem{charfeddine2010}
+M.~Charfeddine and B.~Montreuil, \emph{Integrated agent-oriented modeling and
+  simulation of population and healthcare delivery network: Application to copd
+  chronic disease in a canadian region}, Simulation Conference (WSC),
+  Proceedings of the 2010 Winter, Dec 2010, pp.~2327--2339.
+
+\bibitem{chevaleyre2006}
+Y.~Chevaleyre, P.~E. Dunne, U.~Endriss, J.~Lang, M.~Lemaitre, N.~Maudet, Julian
+  Padget, Steve Phelps, Juan~A. Rodr\'{\i}guez-Aguilar, and P.~Sousa,
+  \emph{Issues in multiagent resource allocation}, Informatica \textbf{30}
+  (2006), no.~1, 3 -- 31.
+
+\bibitem{clancey1998}
+William~J. Clancey, Patricia Sachs, Maarten Sierhuis, and Ron~Van Hoof,
+  \emph{Brahms: simulating practice for work systems design}, International
+  Journal of Human-Computer Studies \textbf{49} (1998), no.~6, 831 -- 865.
+
+\bibitem{clark2000}
+D.~Clark, \emph{Shopbots become agents for business change}, Computer
+  \textbf{33} (2000), no.~2, 18--21.
+
+\bibitem{digman1990}
+J.~M. Digman, \emph{{Personality Structure: Emergence of the Five-Factor
+  Model}}, Annual Review of Psychology \textbf{41} (1990), no.~1, 417--440.
+
+\bibitem{du2013}
+Hongying Du, \emph{The effects of human personality on human-agent interactions
+  (doctoral consortium)}, Proceedings of the 12th International Conference on
+  Autonomous Agents and Multiagent Systems (AAMAS 2013) (Takayuki Ito,
+  Catholijn Jonker, Maria Gini, and Onn Shehory, eds.).
+
+\bibitem{du2013iat}
+Hongying Du and M.N. Huhns, \emph{Determining the effect of personality types
+  on human-agent interactions}, Web Intelligence (WI) and Intelligent Agent
+  Technologies (IAT), 2013 IEEE/WIC/ACM International Joint Conferences on,
+  vol.~2, Nov 2013, pp.~239--244.
+
+\bibitem{ergu2013}
+Daji Ergu, Gang Kou, Yi~Peng, Yong Shi, and Yu~Shi, \emph{The analytic
+  hierarchy process: task scheduling and resource allocation in cloud computing
+  environment}, The Journal of Supercomputing \textbf{64} (2013), no.~3,
+  835--848 (English).
+
+\bibitem{eryilmaz2007}
+A.~Eryilmaz and R.~Srikant, \emph{Fair resource allocation in wireless networks
+  using queue-length-based scheduling and congestion control}, Networking,
+  IEEE/ACM Transactions on \textbf{15} (2007), no.~6, 1333--1344.
+
+\bibitem{feldman2005}
+Michal Feldman, Kevin Lai, and Li~Zhang, \emph{A price-anticipating resource
+  allocation mechanism for distributed shared clusters}, CoRR
+  \textbf{abs/cs/0502019} (2005).
+
+\bibitem{visit}
+Centers for Disease~Control and Prevention, \emph{Ambulatory care use and
+  physician visits}, \url{http://www.cdc.gov/nchs/fastats/docvisit.htm},
+  Accessed Feb 6, 2014.
+
+\bibitem{muller1997}
+Stan Franklin and Art Graesser, \emph{Is it an agent, or just a program?: A
+  taxonomy for autonomous agents}, Intelligent Agents III Agent Theories,
+  Architectures, and Languages (J{\"o}rg~P. M{\"u}ller, Michael~J. Wooldridge,
+  and Nicholas~R. Jennings, eds.), Lecture Notes in Computer Science, vol.
+  1193, Springer Berlin Heidelberg, 1997, pp.~21--35.
+
+\bibitem{greenwald2000}
+AmyR. Greenwald and JeffreyO. Kephart, \emph{Shopbots and pricebots}, Agent
+  Mediated Electronic Commerce II (Alexandros Moukas, Fredrik Ygge, and Carles
+  Sierra, eds.), Lecture Notes in Computer Science, vol. 1788, Springer Berlin
+  Heidelberg, 2000, pp.~1--23.
+
+\bibitem{hexmoor2006}
+Henry Hexmoor, Satish~Gunnu Venkata, and Donald Hayes, \emph{Modelling social
+  norms in multiagent systems}, Journal of Experimental \& Theoretical
+  Artificial Intelligence \textbf{18} (2006), no.~01, 49--71.
+
+\bibitem{hollander2011}
+Christopher~D. Hollander and Annie~S. Wu, \emph{The current state of normative
+  agent-based systems}, Journal of Artificial Societies and Social Simulation
+  \textbf{14} (2011), no.~2, 6.
+
+\bibitem{crowdsourcing}
+J.~Howe, \emph{Crowdsourcing: A definition},
+  \url{http://crowdsourcing.typepad.com/cs/2006/06/crowdsourcing_a.html},
+  Accessed Feb 12, 2014.
+
+\bibitem{huhns2009}
+Michael~N. Huhns, \emph{From dps to mas to ...: Continuing the trends},
+  Proceedings of The 8th International Conference on Autonomous Agents and
+  Multiagent Systems - Volume 1 (Richland, SC), AAMAS '09, International
+  Foundation for Autonomous Agents and Multiagent Systems, 2009, pp.~43--48.
+
+\bibitem{huhns1999}
+Michael~N. Huhns and Larry~M. Stephens, \emph{Multiagent systems}, MIT Press,
+  Cambridge, MA, USA, 1999, pp.~79--120.
+
+\bibitem{ratemds}
+RateMDs Inc., \url{http://www.ratemds.com/}.
+
+\bibitem{isern2008}
+David Isern, Antonio Moreno, Gianfranco Pedone, and Laszlo Varga, \emph{An
+  intelligent platform to provide home care services}, Knowledge Management for
+  Health Care Procedures (David Riaño, ed.), Lecture Notes in Computer
+  Science, vol. 4924, Springer Berlin Heidelberg, 2008, pp.~149--160.
+
+\bibitem{isern2010}
+David Isern, David S{\'a}nchez, and Antonio Moreno, \emph{Agents applied in
+  health care: A review}, International Journal of Medical Informatics
+  \textbf{79} (2010), no.~3, 145 -- 166.
+
+\bibitem{Iyer2005}
+Karthik Iyer and Michael~N. Huhns, \emph{Multiagent negotiation for fair and
+  unbiased resource allocation}, OTM Conferences (1) (Robert Meersman, Zahir
+  Tari, Mohand-Said Hacid, John Mylopoulos, Barbara Pernici, {\"O}zalp
+  Babaoglu, Hans-Arno Jacobsen, Joseph~P. Loyall, Michael Kifer, and Stefano
+  Spaccapietra, eds.), Lecture Notes in Computer Science, vol. 3760, Springer,
+  2005, pp.~453--465.
+
+\bibitem{jennings1998}
+Nicholas~R. Jennings, Katia Sycara, and Michael Wooldridge, \emph{A roadmap of
+  agent research and development}, Autonomous Agents and Multi-Agent Systems
+  \textbf{1} (1998), no.~1, 7--38 (English).
+
+\bibitem{kawa2009}
+Arkadiusz Kawa, \emph{Simulation of dynamic supply chain configuration based on
+  software agents and graph theory}, Distributed Computing, Artificial
+  Intelligence, Bioinformatics, Soft Computing, and Ambient Assisted Living
+  (Sigeru Omatu, MiguelP. Rocha, Jos{\'e} Bravo, Florentino Fern{\'a}ndez,
+  Emilio Corchado, Andr{\'e}s Bustillo, and JuanM. Corchado, eds.), Lecture
+  Notes in Computer Science, vol. 5518, Springer Berlin Heidelberg, 2009,
+  pp.~346--349.
+
+\bibitem{keirseywebsite}
+D.~Keirsey, \emph{Keirsey's webpage on overview of the four temperaments},
+  1996.
+
+\bibitem{keirsey1998please}
+\bysame, \emph{Please understand me ii}, Prometheus Nemesis, 1998.
+
+\bibitem{koutkias2005}
+V.G. Koutkias, I.~Chouvarda, and N.~Maglaveras, \emph{A multiagent system
+  enhancing home-care health services for chronic disease management},
+  Information Technology in Biomedicine, IEEE Transactions on \textbf{9}
+  (2005), no.~4, 528--537.
+
+\bibitem{bargainfinder}
+B.~Krulwich, \emph{The bargainfinder agent: Comparison price shopping on the
+  internet}, 1996.
+
+\bibitem{li2004}
+Ho-Kyoung Lee, Young-Hoon Yu, Supratip Ghose, and Geun-Sik Jo, \emph{Comparison
+  shopping systems based on semantic web - a case study of purchasing cameras},
+  Grid and Cooperative Computing (Minglu Li, Xian-He Sun, Qian-ni Deng, and Jun
+  Ni, eds.), Lecture Notes in Computer Science, vol. 3032, Springer Berlin
+  Heidelberg, 2004, pp.~139--146.
+
+\bibitem{lee2009}
+Kangbok Lee, Byung-Cheon Choi, Joseph Y.~T. Leung, and Michael~L. Pinedo,
+  \emph{Approximation algorithms for multi-agent scheduling to minimize total
+  weighted completion time}, Inf. Process. Lett. \textbf{109} (2009), no.~16,
+  913--917.
+
+\bibitem{lewis2013}
+T.~Lewis, \emph{Humans show empathy for robots}, April 2013.
+
+\bibitem{malik2010}
+Ahmad~Kamran Malik and Schahram Dustdar, \emph{An intelligent information
+  sharing control system for dynamic collaborations}, Proceedings of the 8th
+  International Conference on Frontiers of Information Technology (New York,
+  NY, USA), FIT '10, ACM, 2010, pp.~30:1--30:6.
+
+\bibitem{malik2012}
+\bysame, \emph{Enhanced sharing and privacy in collaborative virtual teams.},
+  Journal of Information Assurance and Security \textbf{7} (2012), no.~2, 61 --
+  70.
+
+\bibitem{mason2009}
+Winter Mason and Duncan~J. Watts, \emph{Financial incentives and the
+  "performance of crowds"}, Proceedings of the ACM SIGKDD Workshop on Human
+  Computation (New York, NY, USA), HCOMP '09, ACM, 2009, pp.~77--85.
+
+\bibitem{myers1980gifts}
+I.B. Myers and P.B. Myers, \emph{Gifts differing: Understanding personality
+  type}, Davies-Black Pub., 1980.
+
+\bibitem{nealon2003}
+John Nealon and Antonio Moreno, \emph{Agent-based applications in health care},
+  in Applications of Software Agent Technology in the Health Care Domain ,
+  Whitestein Series in Software Agent Technologies, Birkhäuser Verlag, Verlag,
+  2003, pp.~3--18.
+
+\bibitem{relativeimportance}
+Bureau of~Labor~Statistics, \emph{Consumer price index},
+  http://www.bls.gov/cpi, U.S. Bureau of Labor Statistics Division of
+  Information Services, Accessed 29 Jan 2014.
+
+\bibitem{blsglossary}
+\bysame, \emph{Glossary}, http://www.bls.gov/bls/glossary.htm, U.S. Bureau of
+  Labor Statistics Division of Information Services, Accessed 29 Jan 2014.
+
+\bibitem{Peever2012}
+Nicole Peever, Daniel Johnson, and John Gardner, \emph{Personality \& video
+  game genre preferences}, Proceedings of The 8th Australasian Conference on
+  Interactive Entertainment: Playing the System (New York, NY, USA), IE '12,
+  ACM, 2012, pp.~20:1--20:3.
+
+\bibitem{Reeves1996}
+Byron Reeves and Clifford Nass, \emph{The media equation: how people treat
+  computers, television, and new media like real people and places}, Cambridge
+  University Press, New York, NY, USA, 1996.
+
+\bibitem{robertson1998cake}
+J.~Robertson and W.~Webb, \emph{Cake cutting algorithms: Be fair if you can},
+  Ak Peters Series, Peters, 1998.
+
+\bibitem{russell2009}
+Stuart Russell and Peter Norvig, \emph{Artificial intelligence: A modern
+  approach}, 3rd ed., Prentice Hall Press, Upper Saddle River, NJ, USA, 2009.
+
+\bibitem{santos2003}
+Eugene Santos, Feng Zhang, and PeterB. Luh, \emph{Intra-organizational
+  logistics management through multi-agent systems}, Electronic Commerce
+  Research \textbf{3} (2003), no.~3-4, 337--364 (English).
+
+\bibitem{satzger2013}
+Benjamin Satzger, Harald Psaier, Daniel Schall, and Schahram Dustdar,
+  \emph{Auction-based crowdsourcing supporting skill management}, Inf. Syst.
+  \textbf{38} (2013), no.~4, 547--560.
+
+\bibitem{scekic2013}
+Ognjen Scekic, Christoph Dorn, and Schahram Dustdar, \emph{Simulation-based
+  modeling and evaluation of incentive schemes in crowdsourcing environments},
+  On the Move to Meaningful Internet Systems: OTM 2013 Conferences (Robert
+  Meersman, Herv{\'e} Panetto, Tharam Dillon, Johann Eder, Zohra Bellahsene,
+  Norbert Ritter, Pieter Leenheer, and Deijing Dou, eds.), Lecture Notes in
+  Computer Science, vol. 8185, Springer Berlin Heidelberg, 2013, pp.~167--184.
+
+\bibitem{schmidt2009}
+D.A. Schmidt, Changxin Shi, R.A. Berry, M.L. Honig, and W.~Utschick,
+  \emph{Distributed resource allocation schemes}, Signal Processing Magazine,
+  IEEE \textbf{26} (2009), no.~5, 53--63.
+
+\bibitem{Schmitt2008}
+Pamela Schmitt, Robert Shupp, Kurtis Swope, and Justin Mayer,
+  \emph{Pre-commitment and personality: behavioral explanations in ultimatum
+  games}, Journal of Economic Behavior \& Organization \textbf{66} (2008),
+  no.~3-4, 597--605.
+
+\bibitem{shavelson2003}
+Richard~J Shavelson, Dennis~C Phillips, Lisa Towne, and Michael~J Feuer,
+  \emph{On the science of education design studies}, Educational researcher
+  \textbf{32} (2003), no.~1, 25--28.
+
+\bibitem{shoham2008}
+Yoav Shoham and Kevin Leyton-Brown, \emph{Multiagent systems: Algorithmic,
+  game-theoretic, and logical foundations}, Cambridge University Press, New
+  York, NY, USA, 2008.
+
+\bibitem{singh2014}
+Munindar~P. Singh, \emph{Norms as a basis for governing sociotechnical
+  systems}, ACM Trans. Intell. Syst. Technol. \textbf{5} (2014), no.~1,
+  21:1--21:23.
+
+\bibitem{skopik2012}
+Florian Skopick, Daniel Schall, and Schahram Dustdar, \emph{Discovering and
+  managing social compositions in collaborative enterprise crowdsourcing
+  systems}, International Journal of Cooperative Information Systems
+  \textbf{21} (2012), no.~04, 297--341.
+
+\bibitem{sterling2009}
+Leon Sterling and Kuldar Taveter, \emph{The art of agent-oriented modeling},
+  Cambridge, MA, and London, England: The MIT Press, 2009.
+
+\bibitem{tang2010}
+Zhulei Tang, Michael~D. Smith, and Alan Montgomery, \emph{The impact of shopbot
+  use on prices and price dispersion: Evidence from online book retailing},
+  International Journal of Industrial Organization \textbf{28} (2010), no.~6,
+  579 -- 590.
+
+\bibitem{taveter2012}
+K.~Taveter, Hongying Du, and M.N. Huhns, \emph{Method for rapid prototyping of
+  societal information systems}, Computer Science and Information Systems
+  (FedCSIS), 2012 Federated Conference on, 2012, pp.~1221--1228.
+
+\bibitem{taveter2012j}
+Kuldar Taveter, Hongying Du, and Michael~N. Huhns, \emph{{Engineering societal
+  information systems by agent-oriented modeling}}, Journal of Ambient
+  Intelligence and Smart Environments \textbf{4} (2012), 227--252.
+
+\bibitem{tokarchuk2012}
+O.~Tokarchuk, R.~Cuel, and M.~Zamarian, \emph{Analyzing crowd labor and
+  designing incentives for humans in the loop}, Internet Computing, IEEE
+  \textbf{16} (2012), no.~5, 45--51.
+
+\bibitem{truong2012}
+Hong-Linh Truong, Schahram Dustdar, and Kamal Bhattacharya, \emph{Programming
+  hybrid services in the cloud}, Service-Oriented Computing (Chengfei Liu,
+  Heiko Ludwig, Farouk Toumani, and Qi~Yu, eds.), Lecture Notes in Computer
+  Science, vol. 7636, Springer Berlin Heidelberg, 2012, pp.~96--110.
+
+\bibitem{truong2013}
+Hong-Linh Truong, Schahram Dustdar, and Kamal Bhattacharya,
+  \emph{Conceptualizing and programming hybrid services in the cloud},
+  International Journal of Cooperative Information Systems \textbf{22} (2013),
+  no.~04, 1341003.
+
+\bibitem{udupi2010}
+Yathiraj~B. Udupi and Munindar~P. Singh, \emph{Information sharing among
+  autonomous agents in referral networks}, Agents and Peer-to-Peer Computing
+  (SamuelR.H. Joseph, Zoran Despotovic, Gianluca Moro, and Sonia Bergamaschi,
+  eds.), Lecture Notes in Computer Science, vol. 5319, Springer Berlin
+  Heidelberg, 2010, pp.~13--26.
+
+\bibitem{uszok2004}
+Andrzej Uszok, JeffreyM. Bradshaw, and Renia Jeffers, \emph{Kaos: A policy and
+  domain services framework for grid computing and semantic web services},
+  Trust Management (Christian Jensen, Stefan Poslad, and Theo Dimitrakos,
+  eds.), Lecture Notes in Computer Science, vol. 2995, Springer Berlin
+  Heidelberg, 2004, pp.~16--26.
+
+\bibitem{valacich2009information}
+J.S. Valacich and C.~Schneider, \emph{Information systems today: Managing in
+  the digital world}, Prentice Hall PTR, 2009.
+
+\bibitem{vonderputten2010}
+Astrid~M. von~der Putten, Nicole~C. Kramer, and Jonathan Gratch, \emph{How our
+  personality shapes our interactions with virtual characters - implications
+  for research and development}, 10th International Conference on Intelligent
+  Virtual Agents (Philadelphia, {PA}), 2010.
+
+\bibitem{wang2011}
+Xin Wang and G.B. Giannakis, \emph{Resource allocation for wireless multiuser
+  ofdm networks}, Information Theory, IEEE Transactions on \textbf{57} (2011),
+  no.~7, 4359--4372.
+
+\bibitem{watts1998}
+Duncan~J. Watts and Steven~H. Strogatz, \emph{{Collective dynamics of
+  'small-world' networks}}, Nature \textbf{393} (1998), 440--442.
+
+\bibitem{whitworth2013}
+Brian Whitworth and Adnan Ahmad, \emph{Socio-technical system design}, The
+  Interaction Design Foundation, Aarhus, Denmark, 2013.
+
+\bibitem{netlogo}
+Uri Wilensky, \emph{Netlogo}, http://ccl.northwestern.edu/netlogo/, Center for
+  Connected Learning and Computer-Based Modeling, Northwestern University,
+  Evanston, IL, 1999.
+
+\bibitem{wooldridge2009}
+Michael Wooldridge, \emph{An introduction to multiagent systems}, 2nd ed.,
+  Wiley Publishing, 2009.
+
+\bibitem{yang2005}
+Jaeyoung Yang, Tae-Hyung Kim, and Joongmin Choi, \emph{An interface agent for
+  wrapper-based information extraction}, Intelligent Agents and Multi-Agent
+  Systems (MichaelWayne Barley and Nik Kasabov, eds.), Lecture Notes in
+  Computer Science, vol. 3371, Springer Berlin Heidelberg, 2005, pp.~291--302.
+
+\bibitem{yin2009}
+R.K. Yin, \emph{Case study research: Design and methods}, Applied Social
+  Research Methods, SAGE Publications, 2009.
+
+\end{thebibliography}

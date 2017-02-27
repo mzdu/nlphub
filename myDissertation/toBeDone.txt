@@ -1,0 +1,13 @@
+
+[LL]aknowledgement
+
+
+Modifications:
+
+chap 3 grocery
+
+[deleted: 3 url refs: [] in related work section,  figure 1 and 2]
+table 1 -> appendix A 
+
+chap 4 health care 
+[deleted refs 9 ]

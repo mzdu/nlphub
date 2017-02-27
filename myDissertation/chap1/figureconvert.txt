@@ -1,0 +1,1 @@
+.vsdx->emf->word->pdf   the figure will be clear
